@@ -7,6 +7,9 @@
 - ⚡ Fun fact: idfk how to code :3
 
 
+[![wakatime](https://wakatime.com/badge/user/c8b7d035-e602-4a16-94e7-e4caa8122e7c.svg)](https://wakatime.com/@c8b7d035-e602-4a16-94e7-e4caa8122e7c)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@forbxpg) 
 
