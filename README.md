@@ -31,7 +31,6 @@
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=forbxpg&theme=ambient_gradient&hide_border=false)
 </div>
 
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forbxpg/forbxpg/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/forbxpg/forbxpg/output/snake.svg" />
