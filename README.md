@@ -27,8 +27,6 @@
 ## 📊 Stats
 
 <div align="center">
-
-<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forbxpg&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=forbxpg&theme=ambient_gradient&hide_border=false)
 </div>
