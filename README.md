@@ -22,21 +22,13 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📊 Stats
-
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forbxpg&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=forbxpg&theme=ambient_gradient&hide_border=false)
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forbxpg/forbxpg/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/forbxpg/forbxpg/output/snake.svg" />
   <img src="https://raw.githubusercontent.com/forbxpg/forbxpg/output/snake.svg" />
 </picture>
----
+
 
 ## ⏱️ WakaTime
 
