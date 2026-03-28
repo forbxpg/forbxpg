@@ -13,6 +13,7 @@ jobs:
 
       - name: Download WakaTime SVG
         run: |
+          mkdir -p assets
           curl -o assets/wakatime.svg \
             "https://wakatime.com/share/@forbxpg/dbeee904-a3cb-4135-8cb2-d10b4f2bf0b9.svg"
 
