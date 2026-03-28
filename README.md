@@ -33,8 +33,5 @@
 ## ⏱️ WakaTime
 
 <div align="center">
-
-<img src="https://wakatime.com/share/@forbxpg/8a19fa1c-397f-4119-a20a-994fe0ff7824.svg" width="400" />
-<img src="https://wakatime.com/share/@forbxpg/53c738cb-0d3c-40a2-8d7e-d0c6c4bdb062.svg" width="700" />
-
+<img src="./assets/wakatime.svg" width="400" />
 </div>
