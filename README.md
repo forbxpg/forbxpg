@@ -35,3 +35,7 @@
 <div align="center">
 <img src="./assets/wakatime.svg" width="400" />
 </div>
+
+## 🥷🏻 LeetCode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/forbxpg?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap)
